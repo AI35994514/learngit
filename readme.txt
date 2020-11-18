@@ -49,3 +49,4 @@ add something here.
 git track changes
 git@github.com:AI35994514/gitskills.git
 git clone  git push -u
+create a new branch is easy and quick
