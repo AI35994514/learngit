@@ -49,4 +49,6 @@ add something here.
 git track changes
 git@github.com:AI35994514/gitskills.git
 git clone  git push -u
-create  a new branch
+create a new branch
+manage the branch
+fixed some bug
